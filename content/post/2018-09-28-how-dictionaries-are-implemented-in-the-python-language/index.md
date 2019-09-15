@@ -4,7 +4,7 @@ author: Denis Trofimov
 type: post
 date: 2018-09-28T19:12:58+00:00
 url: /how-dictionaries-are-implemented-in-the-python-language/
-featured_image: /wp-content/uploads/2018/09/The-hash-function-for-strings-in-Python-for-a-table-size-of-8.png
+featured_image: The-hash-function-for-strings-in-Python-for-a-table-size-of-8.png
 accesspress_mag_post_template_layout:
   - global-template
 accesspress_mag_sidebar_layout:
