@@ -4,7 +4,7 @@ author: Denis Trofimov
 type: post
 date: 2018-06-25T23:29:33+00:00
 url: /what-easy-questions-on-javascript-i-can-ask/
-featured_image: /wp-content/uploads/2018/06/WhatAboutAsynchronousCallbacks.png
+featured_image: WhatAboutAsynchronousCallbacks.png
 accesspress_mag_post_template_layout:
   - global-template
 accesspress_mag_sidebar_layout:

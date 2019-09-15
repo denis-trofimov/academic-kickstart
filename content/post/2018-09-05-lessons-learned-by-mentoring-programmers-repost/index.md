@@ -4,7 +4,7 @@ author: Denis Trofimov
 type: post
 date: 2018-09-05T17:28:46+00:00
 url: /lessons-learned-by-mentoring-programmers-repost/
-featured_image: /wp-content/uploads/2018/09/Pair-programming-Kang-min-Liu.jpg
+featured_image: Pair-programming-Kang-min-Liu.jpg
 accesspress_mag_post_template_layout:
   - global-template
 accesspress_mag_sidebar_layout:

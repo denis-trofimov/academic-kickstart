@@ -4,7 +4,7 @@ author: Denis Trofimov
 type: post
 date: 2018-09-01T19:49:22+00:00
 url: /joining-phenomenal-machine-learning-course-fast-ai-using-free-google-colaboratory-setup/
-featured_image: /wp-content/uploads/2018/09/Most-correct-dogs-detected-by-CNN-trained-in-fast.ai-course-lesson-1-from-dogscats-dataset.png
+featured_image: Most-correct-dogs-detected-by-CNN-trained-in-fast.ai-course-lesson-1-from-dogscats-dataset.png
 accesspress_mag_post_template_layout:
   - global-template
 accesspress_mag_sidebar_layout:
@@ -64,9 +64,9 @@ You can use GPU as a backend free for 12 hours at a time. That is very good new
   It is so simple to alter default hardware <strong class="markup--strong markup--p-strong">(CPU to GPU or vice versa)</strong>; just follow <strong class="markup--strong markup--p-strong">Edit > Notebook settings</strong> or <strong class="markup--strong markup--p-strong">Runtime>Change runtime type </strong>and <strong class="markup--strong markup--p-strong">select GPU </strong>as <strong class="markup--strong markup--p-strong">Hardware accelerator</strong>.
 </p>
 
-![Open Jupyter notebook settings of Google Colaboratory](/wp-content/uploads/2018/09/Open-Jupyter-notebook-settings-of-Google-Colaboratory.png "Open Jupyter notebook settings of Google Colaboratory")
+![Open Jupyter notebook settings of Google Colaboratory](Open-Jupyter-notebook-settings-of-Google-Colaboratory.png "Open Jupyter notebook settings of Google Colaboratory")
 
-![Select a free Tesla K80 GPU in Jupyter notebook settings of Google Colaboratory](/wp-content/uploads/2018/09/Select-a-free-Tesla-K80-GPU-in-Jupyter-notebook-settings-of-Google-Colaboratory.png "Select a free Tesla K80 GPU in Jupyter notebook settings of Google Colaboratory")
+![Select a free Tesla K80 GPU in Jupyter notebook settings of Google Colaboratory](Select-a-free-Tesla-K80-GPU-in-Jupyter-notebook-settings-of-Google-Colaboratory.png "Select a free Tesla K80 GPU in Jupyter notebook settings of Google Colaboratory")
 
 ### Setup step 1: install libraries for fast.ai course.
 

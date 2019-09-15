@@ -4,7 +4,7 @@ author: Denis Trofimov
 type: post
 date: 2018-09-09T20:03:20+00:00
 url: /review-of-kevlin-henneys-talk-seven-ineffective-coding-habits-of-many-programmers/
-featured_image: /wp-content/uploads/2018/09/ITT-2016-Kevlin-Henney-Seven-Ineffective-Coding-Habits-of-Many-Programmers-Code-alignment-1.png
+featured_image: ITT-2016-Kevlin-Henney-Seven-Ineffective-Coding-Habits-of-Many-Programmers-Code-alignment-1.png
 accesspress_mag_post_template_layout:
   - global-template
 accesspress_mag_sidebar_layout:

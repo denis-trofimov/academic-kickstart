@@ -4,7 +4,7 @@ author: Denis Trofimov
 type: post
 date: 2018-06-06T20:33:50+00:00
 url: /10-known-open-source-projects-in-iris-recognition-2018/
-featured_image: /wp-content/uploads/2018/06/Eye-Photo-by-Tom-Tolkien.jpg
+featured_image: Eye-Photo-by-Tom-Tolkien.jpg
 accesspress_mag_post_template_layout:
   - global-template
 accesspress_mag_sidebar_layout:

@@ -4,7 +4,7 @@ author: Denis Trofimov
 type: post
 date: 2018-09-14T22:17:50+00:00
 url: /getting-mob-programming-buy-in-at-your-organization/
-featured_image: /wp-content/uploads/2018/09/Getting-Mob-Programming-Buy-In-at-Your-Organization.jpg
+featured_image: Getting-Mob-Programming-Buy-In-at-Your-Organization.jpg
 accesspress_mag_post_template_layout:
   - global-template
 accesspress_mag_sidebar_layout:
