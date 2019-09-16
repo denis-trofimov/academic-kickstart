@@ -33,7 +33,7 @@ _I fought unsustainable spacing the wrong way in the past._
 > 
 > But because you acquire habits largely by imitation, and rarely question them, how do you know your habits are effective? Many of the habits that programmers have for naming, formatting, commenting and unit testing do not stand up as rational and practical on closer inspection. [Kevlin Henney][1] [@kevlinhenney][2] examines seven coding habits that are not as effective as programmers believe, and to suggest alternatives.
 
-
+{{<gallery album="habits">}}
 
 # Seven Ineffective Coding Habits of Many Programmers
 
@@ -51,7 +51,7 @@ _I fought unsustainable spacing the wrong way in the past._
 
   7. > uncohesive tests
 
-## Polar colored user comments on this video.
+## Selected user comments on this video.
 
 > @arnoldhau1:
 > 
