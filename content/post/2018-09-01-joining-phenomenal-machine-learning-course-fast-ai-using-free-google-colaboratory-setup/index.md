@@ -72,20 +72,23 @@ You can use GPU as a backend free for 12 hours at a time. That is very good new
 
 Enter this code in a new code block on top of a notebook:
 
-<pre class="EnlighterJSRAW" data-enlighter-language="python"># Install torch compatible with fastai
+```python
+# Install torch compatible with fastai
 from os import path
 from wheel.pep425tags import get_abbr_impl, get_impl_ver, get_abi_tag
 platform = '{}{}-{}'.format(get_abbr_impl(), get_impl_ver(), get_abi_tag())
 accelerator = 'cu80' if path.exists('/opt/bin/nvidia-smi') else 'cpu'
-!pip install -q http://download.pytorch.org/whl/{accelerator}/torch-0.3.1-{platform}-linux_x86_64.whl fastai torchvision</pre>
+!pip install -q http://download.pytorch.org/whl/{accelerator}/torch-0.3.1-{platform}-linux_x86_64.whl fastai torchvision
+```
 
 This will take a while.
 
 ### Setup step 2: model weights download.
 
-<pre class="EnlighterJSRAW" data-enlighter-language="python"># Model weights for other network architectures (e.g. resnext50):
+```python
+# Model weights for other network architectures (e.g. resnext50):
 !wget -q http://files.fast.ai/models/weights.tgz && tar -xzf weights.tgz -C /usr/local/lib/python3.6/dist-packages/fastai
-</pre>
+```
 
 The step 2 will take a while too, need to download and unpack 1.1 Gb.
 
@@ -93,9 +96,11 @@ The step 2 will take a while too, need to download and unpack 1.1 Gb.
 
 For lesson 1, 2, 3 you need dogs $ cats dataset. This code does it. The dataset dogs & cats is available at http://files.fast.ai/data/dogscats.zip.
 
-<pre class="EnlighterJSRAW" data-enlighter-language="python">!mkdir -p data
+```python
+!mkdir -p data
 !wget -q http://files.fast.ai/data/dogscats.zip
-!unzip -q dogscats.zip -d data/</pre>
+!unzip -q dogscats.zip -d data/
+```
 
 Some lessons as 2nd use Kaggle datasets, but it is a theme for another article.
 
