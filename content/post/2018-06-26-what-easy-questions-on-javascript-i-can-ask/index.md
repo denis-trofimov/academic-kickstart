@@ -33,18 +33,21 @@ Having an interviewer field of view in mind, I created this questions list when
 
 ### Question: What this code give to the console?
 
-`b();<br />
-console.log(a);<br />
-var a = 'Hello World!';<br />
-function b() {<br />
-console.log('Called b!');<br />
-}<br />
-` 
+```javascript
+b();
+console.log(a);
+var a = 'Hello World!';
+function b() {
+  console.log('Called b!');
+}
+```
 
 ### Answer:
 
-`Called b!<br />
-Hello World!`
+```javascript
+Called b!
+Hello World!
+```
 
 ## 
 
@@ -52,26 +55,30 @@ Hello World!`
 
 ### Question: What this code give to the console?
 
-`function b() {<br />
-var myVar;<br />
-console.log(myVar);<br />
-}<br />
-function a() {<br />
-var myVar = 2;<br />
-console.log(myVar);<br />
-b();<br />
-}<br />
-var myVar = 1;<br />
-console.log(myVar);<br />
-a();<br />
-console.log(myVar);`
+```javascript
+function b() {
+  var myVar;
+  console.log(myVar);
+}
+function a() {
+  var myVar = 2;
+  console.log(myVar);
+  b();
+}
+var myVar = 1;
+console.log(myVar);
+a();
+console.log(myVar);
+```
 
 ### Answer:
 
-`1<br />
-2<br />
-1<br />
-1`
+```javascript
+1
+2
+1
+1
+```
 
 ## 
 
@@ -79,45 +86,52 @@ console.log(myVar);`
 
 ### Question: What this code give to the console?
 
-`function a() {<br />
-function b() {<br />
-console.log(myVar);<br />
-}<br />
-b();<br />
-}<br />
-var myVar = 1;<br />
-a();<br />
-b();`
+```javascript
+function a() {
+  function b() {
+    console.log(myVar);
+  }
+  b();
+}
+var myVar = 1;
+a();
+b();
+```
 
 ### Answer:
 
-`1<br />
-Uncaught ReferenceError: b is not defined<br />
-` 
+```javascript
+1
+Uncaught ReferenceError: b is not defined
+``` 
 
 ## <span style="font-weight: 400;">What About Asynchronous Callbacks</span>
 
 ### Question: What this code give to the console?
 
-`// long running function<br />
-function waitThreeSeconds() {<br />
-var ms = 3000 + new Date().getTime();<br />
-while (new Date() < ms){}<br />
-console.log('finished function');<br />
-}<br />
-function clickHandler() {<br />
-console.log('click event!');<br />
-}<br />
-// listen for the click event<br />
-document.addEventListener('click', clickHandler);<br />
-waitThreeSeconds();<br />
-console.log('finished execution');`
+```javascript
+// long running function
+function waitThreeSeconds() {
+  var ms = 3000 + new Date().getTime();
+  while (new Date() < ms){}
+  console.log('finished function');
+}
+function clickHandler() {
+  console.log('click event!');
+}
+// listen for the click event
+document.addEventListener('click', clickHandler);
+waitThreeSeconds();
+console.log('finished execution');
+```
 
 ### Answer:
 
-`finished function<br />
-finished execution<br />
-click event!`
+```javascript
+finished function
+finished execution
+click event!
+```
 
  [1]: https://simpleprogrammer.com/store/products/javascript-launchpad/?c=jslp70&utm_source=drip&utm_medium=email&utm_campaign=js-launchpad-sale&utm_content=js-launchpad-sale-email-2&__s=25hdpkywdqsodfst7mgj&utm_source=drip&utm_medium=email&utm_campaign=JavaScript+LaunchPad+Introduction&utm_content=Q%26A+about+JavaScript+LaunchPad
  [2]: https://simpleprogrammer.com/
