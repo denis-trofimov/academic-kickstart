@@ -13,7 +13,7 @@ role: Senior Software Developer
 
 # Organizations/Affiliations
 organizations:
-- name: Learn Python
+- name: Learn Python programming course with a strong inclination towards practice
   url: "https://learn.python.ru/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -37,12 +37,31 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/denisteamlead
 - icon: github
   icon_pack: fab
   link: https://github.com/denis-trofimov
+- icon: gitlab
+  icon_pack: fab
+  link: "https://gitlab.com/denis-trofimov"
+- icon: "telegram"
+  icon_pack: "fab"
+  link: "https://telegram.me/@DenisTrofimovDev"
+- icon: linkedin
+  icon_pack: fab
+  link: "https://www.linkedin.com/in/denis-trofimov-iris/"
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/denisteamlead
+- icon: facebook
+  icon_pack: fab
+  link: https://facebook.com/denis.trofimov
+- icon: vk
+  icon_pack: fab
+  link: http://vk.com/denis.trofimov
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/denis.trofim0v/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
