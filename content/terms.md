@@ -7,17 +7,17 @@ accesspress_mag_page_sidebar_layout:
   - right-sidebar
 
 ---
-# <span style="font-weight: 400;">Computer Vision and Machine Learning in Iris Recognition</span>
+# <span style="font-weight: 400;">Python Courses Mentor Blog</span>
 
 # <span style="font-weight: 400;">Terms and Conditions (&#8220;Terms&#8221;)</span>
 
 <span style="font-weight: 400;">Last updated: June 07, 2018</span>
 
-<span style="font-weight: 400;">Please read these Terms and Conditions (&#8220;Terms&#8221;, &#8220;Terms and Conditions&#8221;) carefully before using the http://3.120.115.232 website (the &#8220;Service&#8221;) operated by Computer Vision and Machine Learning in Iris Recognition (&#8220;us&#8221;, &#8220;we&#8221;, or &#8220;our&#8221;).</span>
+<span style="font-weight: 400;">Please read these Terms and Conditions (&#8220;Terms&#8221;, &#8220;Terms and Conditions&#8221;) carefully before using the https://denis-trofimov.github.io website (the &#8220;Service&#8221;) operated by Python Courses Mentor Blog (&#8220;us&#8221;, &#8220;we&#8221;, or &#8220;our&#8221;).</span>
 
 <span style="font-weight: 400;">Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.</span>
 
-<span style="font-weight: 400;">By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service. This Terms and Conditions agreement for Computer Vision and Machine Learning in Iris Recognition is powered by </span>[<span style="font-weight: 400;">TermsFeed</span>][1]<span style="font-weight: 400;">.</span>
+<span style="font-weight: 400;">By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service. This Terms and Conditions agreement for Python Courses Mentor Blog is powered by </span>[<span style="font-weight: 400;">TermsFeed</span>][1]<span style="font-weight: 400;">.</span>
 
 ## <span style="font-weight: 400;">Accounts</span>
 
@@ -29,9 +29,9 @@ accesspress_mag_page_sidebar_layout:
 
 ## <span style="font-weight: 400;">Links To Other Web Sites</span>
 
-<span style="font-weight: 400;">Our Service may contain links to third-party web sites or services that are not owned or controlled by Computer Vision and Machine Learning in Iris Recognition.</span>
+<span style="font-weight: 400;">Our Service may contain links to third-party web sites or services that are not owned or controlled by Python Courses Mentor Blog.</span>
 
-<span style="font-weight: 400;">Computer Vision and Machine Learning in Iris Recognition has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Computer Vision and Machine Learning in Iris Recognition shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</span>
+<span style="font-weight: 400;">Python Courses Mentor Blog has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Python Courses Mentor Blog shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</span>
 
 <span style="font-weight: 400;">We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.</span>
 
@@ -61,6 +61,6 @@ accesspress_mag_page_sidebar_layout:
 
 ## <span style="font-weight: 400;">Contact Us</span>
 
-<span style="font-weight: 400;">If you have any questions about these Terms, please contact us.</span>
+<span style="font-weight: 400;">If you have any questions about these Terms, please [contact](/#contact) us.</span>
 
  [1]: https://termsfeed.com/
