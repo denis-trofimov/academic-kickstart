@@ -6,36 +6,36 @@
 [[main]]
   name = "Bio"
   url = "#about"
-  weight = 50
+  weight = 20
 
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
+  weight = 40
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 80
 
 [[main]]
   name = "Tag Cloud"
   url = "#tags"
-  weight = 40
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 120
 
 [[main]]
   name = "Experience"
   url = "#experience"
-  weight = 50
+  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
    url = "files/Denis Trofimov CV - Senior Software Developer.pdf"
-   weight = 70
+   weight = 140

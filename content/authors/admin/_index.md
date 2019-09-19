@@ -76,14 +76,15 @@ email: "silaradost@yandex.ru"
 user_groups:
 - Researchers
 - Visitors
+
+# I am C++/C/Python developer with the employment history of 9 years in a software development.
+# I am making my living developing applications, working for the company Vsor Systems LLC in Moscow, Russia.
+# I am leading our small developing department that consists of 3 developers.
+# I am working on the software project for the our company's product, an eye iris identification system. This software uses machine learning convolutional neural networks for camera image analysis (computer vision) and runs on a GPU or CPU.
+
 ---
 
-I am C++/C/Python developer with the employment history of 9 years in a software development.
-I am making my living developing applications, working for the company Vsor Systems LLC in Moscow, Russia.
-I am leading our small developing department that consists of 3 developers.
-I am working on the software project for the our company's product, an eye iris identification system. This software uses machine learning convolutional neural networks for camera image analysis (computer vision) and runs on a GPU or CPU.
+I am near 40. I have spent quite a time in the software industry, not as long as "Uncle" Bob Martin of cause, but have also seen some technologies come and go. Words like this was in favor once: Delphi, Java, HTML, JavaScript, PHP... Plus my beard is making me look like wise one 🙂
 
 In my past I have designed and developed standalone and client - server applications  C++/Python, with databases like Oracle DB, PosgreSQL, MySQL, SQLite.
 Created applications serving CRM, web automated order processing, simulation of technological operation of railroad rolling stock.
-
-I am near 40. I have spent quite a time in the software industry, not as long as "Uncle" Bob Martin of cause, but have also seen some technologies come and go. Words like this was in favor once: Delphi, Java, HTML, JavaScript, PHP... Plus my beard is making me look like wise one 🙂
