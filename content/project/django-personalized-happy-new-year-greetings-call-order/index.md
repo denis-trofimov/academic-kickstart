@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Django powered site to collect call orders for New Year's Miracle"
+title: "New Year's Miracle"
 summary: "A Django site built from scratch"
 authors: []
 tags: ['python', 'django', 'postresql', 'celery', 'redis', 'UWSGI', 'docker', 'nginx', 'Jinja2', 'web']
