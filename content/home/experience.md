@@ -49,9 +49,9 @@ date_format = "Jan 2006"
 
   Technology:
 
-  * Languages: Python, Golang, C++, SQL
+  * Languages: Python 3.7, Golang 2 Modules, C++, SQL
   * DE & editors: PyCharm, GoLand (IDE JetBrains), VS Code
-  * Packages: SQLAlchemy, Flask, Gunicorn, TensorFlow Serving, NumPy, gRPC
+  * Packages: gRPC, TensorFlow Serving, Flask, Gunicorn, NumPy, SQLAlchemy.
   * DB: PostgreSQL DB, SQLite, MongoDB
   * DevOps: Docker, Kubernetes, Helm, TeamCity, Nexus, Linux Ubuntu, bash
   """
@@ -86,11 +86,11 @@ date_format = "Jan 2006"
   description = """
   Achivements:
   
-  * Web-commerce site backend development for a wine importer
+  * Web-commerce site backend development for a wine importer, made on in-house Python framework from scratch.
 
   Technology:
 
-  * Python, ExtJS 4; Git; vim, UMLet; PostgreSQL DB, SQLite, Apache HTTP Server, WSGI
+  * Python 3.2, ExtJS 4; Git; vim, UMLet; PostgreSQL DB, SQLite, Apache HTTP Server, WSGI
   """
 
 [[experience]]

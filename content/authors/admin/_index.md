@@ -17,7 +17,7 @@ organizations:
   url: "https://learn.python.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Developer with passion to Python, Golang, C++. Python newbie mentor.
+bio: Software Developer with passion to Python, Golang, C++. Python courses mentor.
 
 interests:
 - Software Development

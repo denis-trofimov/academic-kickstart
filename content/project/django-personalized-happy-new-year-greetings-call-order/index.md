@@ -45,13 +45,10 @@ url_video: ""
 slides: ""
 ---
 
-I developed the site of “New Year's Miracle” project. It was a Django powered site (built from scratch) to collect orders for personalized Happy New Year greetings. 
-
-I used Jinja 2 templates to put Django install front-end assets given as HTML, CSS, JavaScript bundle.
-
-For storage on site I used PostreSQL DB 10. Delayed jobs as email sending, calling was done using Celery queue and Redis Storage.
-
-I created a Docker container with UWSGI + Django for deployment on Nginx web server, and tested this container works on 38 core bare metal configuration.
+* I had developed the Django powered SPA site for “New Year's Miracle”.
+* Team consisted of owner, sysadmin, DBA, designer, me, my mentee junior Python developer.
+* I used Jinja 2 templates to install front-end, for storage on site I used PostreSQL DB 10, for delayed tasks as email and SMS sending -- Celery queue and Redis.
+* I created a Docker container with UWSGI and Django for deployment on Nginx web server, and tested this container works on 38 core bare metal configuration.
 
 {{< figure src="featured.png" title="Screenshot of call order received" lightbox="true" >}}
 
