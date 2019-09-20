@@ -4,7 +4,7 @@
 title: "Python Voip Traffic Recording Service"
 summary: "Freelance job for De Novo Lab"
 authors: []
-tags: ['python', 'backend', 'git', 'jira', 'sql', 'cloud', 'google', 'api', 'voip', 'ftp', 'sftp', 'refactoring', 'multithreading', 'Debian', 'CentOS', 'Linux', 'PostgreSQL', 'SQLite', 'SQLAlchemy', 'deployment', 'flask', 'SQLite', 'SQLAlchemy', 'tcpdump']
+tags: ['python', 'backend', 'git', 'jira', 'sql', 'cloud', 'google', 'api', 'voip', 'ftp', 'sftp', 'refactoring', 'multithreading', 'debian', 'centos', 'linux', 'postgresql', 'sqlite', 'sqlalchemy', 'deployment', 'flask', 'sqlite', 'sqlalchemy', 'tcpdump']
 categories: []
 date: 2017-05-01T16:54:03+03:00
 

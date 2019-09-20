@@ -4,7 +4,7 @@
 title: "New Year's Miracle"
 summary: "A Django site built from scratch"
 authors: []
-tags: ['python', 'django', 'postresql', 'celery', 'redis', 'UWSGI', 'docker', 'nginx', 'Jinja2', 'web']
+tags: ['python', 'django', 'postresql', 'celery', 'redis', 'uwsgi', 'docker', 'nginx', 'jinja2', 'web']
 categories: []
 date: 2019-01-01T22:04:25+03:00
 

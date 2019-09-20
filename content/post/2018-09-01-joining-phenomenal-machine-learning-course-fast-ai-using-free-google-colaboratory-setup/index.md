@@ -18,10 +18,10 @@ tags:
   - deep learning
   - fastai
   - google
-  - Google Colaboratory
-  - GPU
-  - Jupyter notebook
-  - Kaggle
+  - google colaboratory
+  - gpu
+  - jupyter notebook
+  - kaggle
   - machine learning
   - pytorch
 
