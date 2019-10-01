@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  - course: Postgaduate in Applied Mechanics
+  - course: Postgraduate in Applied Mechanics
     institution: Moscow State University after M. V. Lomonosov
     year: 2002
   - course: BSc in Applied Mechanics

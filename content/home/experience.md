@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   Achivements:
   
   * Refactored the Tinkoff Text-To-Speech GRPC HTTP/2 API and Flask CMS services on Python
-  * Rewrited Text-To-Speech GRPC HTTP/2 API service on Golang
+  * Rewritten Text-To-Speech GRPC HTTP/2 API service on Golang
   * Deployed and tested that services on Kubernetes Cloud
 
   Responsibilities include: code review, interviews
@@ -66,9 +66,10 @@ date_format = "Jan 2006"
   description = """
   Achivements:
 
-  * Developed a biometric identification software (GUI client, server, and embedded).
-  * Spearheaded a team of 2 developers on this project.
-  * Conducted a technological proof test and prepared a GOST compliant report
+  * Designed architecture and developed a bio-metric identification software (GUI client, server, and embedded).
+  * Hired and spearheaded two software developers on this project.
+  * Optimized identity recognition using classic image processing algorithms and CNN
+  * Conducted a technological proof test and prepared a NIST compliant report.
 
   Technology:
 
