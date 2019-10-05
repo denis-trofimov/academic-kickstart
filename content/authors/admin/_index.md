@@ -9,7 +9,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Software Developer
+role: Team Lead / Senior Software Developer
 
 # Organizations/Affiliations
 organizations:
@@ -21,16 +21,12 @@ bio: Software Developer with passion to Python, Golang, C++. Python courses ment
 
 interests:
 - Software Development
-- Data Science
+- To mentor and teach
 
 education:
   courses:
-  - course: Postgraduate in Applied Mechanics
-    institution: Moscow State University after M. V. Lomonosov
-    year: 2002
   - course: BSc in Applied Mechanics
     institution: Moscow State University after M. V. Lomonosov
-    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -43,24 +39,24 @@ social:
 - icon: gitlab
   icon_pack: fab
   link: "https://gitlab.com/denis-trofimov"
-- icon: "telegram"
-  icon_pack: "fab"
-  link: "https://telegram.me/@DenisTrofimovDev"
+# - icon: "telegram"
+#   icon_pack: "fab"
+#   link: "https://telegram.me/@DenisTrofimovDev"
 - icon: linkedin
   icon_pack: fab
   link: "https://www.linkedin.com/in/denis-trofimov-iris/"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/denisteamlead
-- icon: facebook
-  icon_pack: fab
-  link: https://facebook.com/denis.trofimov
-- icon: vk
-  icon_pack: fab
-  link: http://vk.com/denis.trofimov
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/denis.trofim0v/
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/denisteamlead
+# - icon: facebook
+#   icon_pack: fab
+#   link: https://facebook.com/denis.trofimov
+# - icon: vk
+#   icon_pack: fab
+#   link: http://vk.com/denis.trofimov
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://instagram.com/denis.trofim0v/
 - icon: cv
   icon_pack: ai
   link: "files/Denis Trofimov CV - Senior Software Developer.pdf"
@@ -84,7 +80,6 @@ user_groups:
 
 ---
 
-I am near 40. I have spent quite a time in the software industry, not as long as "Uncle" Bob Martin of cause, but have also seen some technologies come and go. Words like this was in favor once: Delphi, Java, HTML, JavaScript, PHP... Plus my beard is making me look like wise one 🙂
-
-In my past I have designed and developed standalone and client - server applications  C++/Python, with databases like Oracle DB, PosgreSQL, MySQL, SQLite.
-Created applications serving CRM, web automated order processing, simulation of technological operation of railroad rolling stock.
+* I am C++/C/Python developer with the employment history of 9 years in a software development.
+* I designed and developed standalone and client-server applications  C++/Python, with databases like Oracle DB, PosgreSQL, MySQL.
+* Created applications serving CRM, web automated order processing, simulation of technological operation of railroad rolling stock.

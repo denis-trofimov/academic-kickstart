@@ -75,7 +75,7 @@ privacy_pack = true
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "https://github.com/denis-trofimov/academic-kickstart.git", repo_branch = "master", editable = {docs = false, page = false, post = false}}
 
 ############################
 ## Contact details
@@ -94,14 +94,14 @@ address = {street = "", city = "Moscow", region = "", postcode = "", country = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+# coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Not willing to relocate"
+# directions = "Not willing to relocate"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday-Friday 10:00 to 18:00"]
+office_hours = ["Monday-Friday 10:00 to 19:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
@@ -109,7 +109,7 @@ office_hours = ["Monday-Friday 10:00 to 18:00"]
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/denisteamlead"},
+  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/denisteamlead"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:ilikemy.self?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
