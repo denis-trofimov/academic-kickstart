@@ -39,25 +39,25 @@ date_format = "Jan 2006"
   date_start = "2018-11-01"
   date_end = "2019-05-31"
   description = """
-  Achivements:
-  
-  * Refactored the Tinkoff Text-To-Speech GRPC HTTP/2 API and Flask CMS services on Python
-  * Rewritten Text-To-Speech GRPC HTTP/2 API service on Golang
-  * Deployed and tested that services on Kubernetes Cloud
 
-  Responsibilities include: code review, interviews
+  * Refactored Text-To-Speech API service, using in-house server gRPC async(curio) Python
+  * Designed and implemented CMS of a voice assistant using Flask, PostgreSQL
+  * Redesigned and implemented low-latency Text-To-Speech API service on Golang, Redis, PostgreSQL
+  * Deployed and tested that services in Kubernetes Cloud, used TeamCity CI/CD
+  * Responsibilities include: code review, interviews, mentoring developers from my team
+  * The team consisted of a technical lead, PM, 2 backend developers, 4 AI data scientists, and a mathematical linguist
 
   Technology:
 
   * Languages: Python 3.7, Golang 2 Modules, C++, SQL
-  * DE & editors: PyCharm, GoLand (IDE JetBrains), VS Code
+  * IDE: PyCharm, GoLand, VS Code
   * Packages: gRPC, TensorFlow Serving, Flask, Gunicorn, NumPy, SQLAlchemy.
   * DB: PostgreSQL DB, SQLite, MongoDB
   * DevOps: Docker, Kubernetes, Helm, TeamCity, Nexus, Linux Ubuntu, bash
   """
 
 [[experience]]
-  title = "Lead Software Developer "
+  title = "Lead Software Developer"
   company = "Vzor Systems, LLC"
   company_url = "https://vzorsystems.ru"
   location = "Moscow"
@@ -78,7 +78,28 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Software Developer Python"
+  title = "Software Developer"
+  company = "Upwork Inc."
+  company_url = "https://www.upwork.com"
+  location = "USA (Remote)"
+  date_start = "2017-03-01"
+  date_end = "2017-08-01"
+  description = """
+  Achivements:
+
+  * Refactored a multithreaded VOIP traffic recording service from Python 2.7 to 3.4
+  * Added Google Cloud Storage, configuration features, fixed JSON API, FTP, SFTP storage features bugs.
+  * The team from De Novo Lab was PM, sysadmin, 2 testers.
+
+  Technology
+
+  * Python 2.7, 3.4, SQL; Git Bitbucket, Atlassian Jira; Eric Python IDE, vim; 
+  * Flask, gcs-client, psycopg2 for PostgreSQL DB, SQLite, SQLAlchemy, tcpdump, tshark, mawk; 
+  * Deployed on Debian, CentOS Linux
+  """  
+
+[[experience]]
+  title = "Backend Software Developer"
   company = "Bigur-consulting, LLC"
   company_url = "https://bigur.ru"
   location = "Moscow"
