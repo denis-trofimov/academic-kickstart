@@ -9,15 +9,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Team Lead / Senior Software Developer
+role: Tech Lead / CTO
 
 # Organizations/Affiliations
 organizations:
-- name: Learn Python programming course with a strong inclination towards practice
-  url: "https://learn.python.ru/"
+- name: Sittme. A revolutionary application that helps parents and nannies find each other
+  url: "https://sitt.me"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Software Developer with passion to Python, Golang, C++. Python courses mentor.
+bio: Software Developer with passion to Python, Golang, C++.
 
 interests:
 - Software Development
@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Applied Mechanics
+  - course: BS in Applied Mechanics
     institution: Moscow State University after M. V. Lomonosov
 
 # Social/Academic Networking
@@ -41,16 +41,16 @@ social:
   icon_pack: fab
   pack_prefix: fa
   link: "https://gitlab.com/denis-trofimov"
-# - icon: "telegram"
-#   icon_pack: "fab"
-#   link: "https://telegram.me/@DenisTrofimovDev"
-- icon: linkedin
+- icon: "telegram"
+  icon_pack: "fab"
+  link: "https://telegram.me/@DenisTrofimovDev"
+- icon: discord
   icon_pack: fab
   pack_prefix: fa
-  link: "https://www.linkedin.com/in/denis-trofimov-iris/"
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/denisteamlead
+  link: https://discord.gg/P4pqagH
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/denisteamlead
 # - icon: facebook
 #   icon_pack: fab
 #   link: https://facebook.com/denis.trofimov
@@ -68,7 +68,11 @@ social:
 # - icon: leetcode
 #   icon_pack: simple-icons
 #   pack_prefix: ai
-#   link: "https://leetcode.com/yasebenravlyus/"  
+#   link: "https://leetcode.com/yasebenravlyus/"
+- icon: linkedin
+  icon_pack: fab
+  pack_prefix: fa
+  link: "https://www.linkedin.com/in/denis-trofimov-iris/"
 - icon: cv
   icon_pack: ai
   pack_prefix: ai

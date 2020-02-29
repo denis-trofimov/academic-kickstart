@@ -7,15 +7,15 @@ accesspress_mag_page_sidebar_layout:
   - right-sidebar
 
 ---
-# <span style="font-weight: 400;">Python Courses Mentor Blog</span>
+# <span style="font-weight: 400;">Denis Trofimov's Blog</span>
 
 # <span style="font-weight: 400;">Privacy Policy</span>
 
 <span style="font-weight: 400;">Effective date: June 07, 2018</span>
 
-<span style="font-weight: 400;">Python Courses Mentor Blog (&#8220;us&#8221;, &#8220;we&#8221;, or &#8220;our&#8221;) operates the https://denis-trofimov.github.io website (the &#8220;Service&#8221;).</span>
+<span style="font-weight: 400;">Denis Trofimov's Blog (&#8220;us&#8221;, &#8220;we&#8221;, or &#8220;our&#8221;) operates the https://denis-trofimov.github.io website (the &#8220;Service&#8221;).</span>
 
-<span style="font-weight: 400;">This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy for Python Courses Mentor Blog is powered by </span>[<span style="font-weight: 400;">TermsFeed</span>][1]<span style="font-weight: 400;">.</span>
+<span style="font-weight: 400;">This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy for Denis Trofimov's Blog is powered by </span>[<span style="font-weight: 400;">TermsFeed</span>][1]<span style="font-weight: 400;">.</span>
 
 <span style="font-weight: 400;">We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://denis-trofimov.github.io</span>
 
@@ -71,7 +71,7 @@ accesspress_mag_page_sidebar_layout:
 
 ## <span style="font-weight: 400;">Use of Data</span>
 
-<span style="font-weight: 400;">Python Courses Mentor Blog uses the collected data for various purposes:</span>
+<span style="font-weight: 400;">Denis Trofimov's Blog uses the collected data for various purposes:</span>
 
 <li style="font-weight: 400;">
   <span style="font-weight: 400;">To provide and maintain the Service</span>
@@ -103,19 +103,19 @@ accesspress_mag_page_sidebar_layout:
 
 <span style="font-weight: 400;">Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</span>
 
-<span style="font-weight: 400;">Python Courses Mentor Blog will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</span>
+<span style="font-weight: 400;">Denis Trofimov's Blog will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</span>
 
 ## <span style="font-weight: 400;">Disclosure Of Data</span>
 
 ### <span style="font-weight: 400;">Legal Requirements</span>
 
-<span style="font-weight: 400;">Python Courses Mentor Blog may disclose your Personal Data in the good faith belief that such action is necessary to:</span>
+<span style="font-weight: 400;">Denis Trofimov's Blog may disclose your Personal Data in the good faith belief that such action is necessary to:</span>
 
 <li style="font-weight: 400;">
   <span style="font-weight: 400;">To comply with a legal obligation</span>
 </li>
 <li style="font-weight: 400;">
-  <span style="font-weight: 400;">To protect and defend the rights or property of Python Courses Mentor Blog</span>
+  <span style="font-weight: 400;">To protect and defend the rights or property of Denis Trofimov's Blog</span>
 </li>
 <li style="font-weight: 400;">
   <span style="font-weight: 400;">To prevent or investigate possible wrongdoing in connection with the Service</span>
