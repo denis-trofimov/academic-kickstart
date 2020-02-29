@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 120  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,17 +18,61 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`
 [[experience]]
-  title = "Mentor"
-  company = "Learn Python programming courses"
+  title = "CTO"
+  company = "Sittme. A revolutionary application that helps parents and nannies find each other"
+  company_url = "https://sitt.me"
+  location = "Moscow"
+  date_start = "2019-11-20"
+  date_end = ""
+  description = """
+  Our application is a revolution not only for parents, but also for nannies. No more intermediaries, no interest payments. Sittme gives you the opportunity to communicate directly with the client, create your own work schedule, work in an area that is convenient to get to.
+
+  * code review and software architecture
+  * support DevOps practices
+  * use Agile, TOC practices
+  """
+
+[[experience]]
+  title = "Tutor"
+  company = "HackerU - Israeli Higher School of Information Technology and Security"
+  company_url = "https://hackeru.pro"
+  location = "Moscow"
+  date_start = "2019-12-17"
+  date_end = ""
+  description = """
+  HackerU educational programs are designed for an audience of different levels of training: from beginner specialists to top management. Actual curricula, international level teachers and practice in the learning process are the best investments in education.
+
+  * Give tutorial on Python for Big Data Analysis
+  """
+
+[[experience]]
+  title = "Tutor"
+  company = "Yandex Practicum educational platform"
+  company_url = "https://practicum.yandex.com/"
+  location = "online"
+  date_start = "2019-12-20"
+  date_end = ""
+  description = """
+  Our courses are created using knowledge that you won't find in any textbook. With our intensive 6 to 9-month IT career advancement programs, Practicum by Yandex bridges the gap between short-term online courses and full-time internships.
+
+  * Review homework
+  """
+
+[[experience]]
+  title = "Tutor"
+  company = "Learn Python programming course"
   company_url = "https://learn.python.ru"
   location = "Moscow"
   date_start = "2018-09-08"
-  date_end = ""
+  date_end = "2019-11-15"
   description = """
+  PYTHON PROGRAMMING COURSE FOR ANY LEVEL WITH ACCESS TO PRACTICE
+
   Achivements:
   
-  * Mentored 3 groups of 6 students for 40 hours each wave.
-  * Supervised about 10-15 diploma projects.
+  * Curated student groups for 40 hours terms 4 terms total.
+  * Supervised 21 diploma projects.
+  * Reviewed homework
   """
 
 [[experience]]
