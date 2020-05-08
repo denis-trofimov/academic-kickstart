@@ -205,7 +205,7 @@ plugins_js  = []
 
   # Configuration of Disqus.
   [comments.disqus]
-    shortname = "disqus_FhF4qMhbhd"  # Paste the shortname from your Disqus dashboard.
+    shortname = "denis-trofimov-blog"  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
 
 ############################
