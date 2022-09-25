@@ -50,7 +50,7 @@ social:
   link: https://discord.gg/P4pqagH
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/denisteamlead
+  link: https://twitter.com/deniscloudgeek
 # - icon: facebook
 #   icon_pack: fab
 #   link: https://facebook.com/denis.trofimov
